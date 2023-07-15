@@ -1,4 +1,4 @@
-# Semantic Segmentation with FCN
+# Semantic Segmentation Using FCN
 
 ## Introduction
 This is a Torchvision implementation for Semantic Segmentation.
